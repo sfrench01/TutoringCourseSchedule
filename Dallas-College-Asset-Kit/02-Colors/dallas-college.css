@@ -1,0 +1,8 @@
+/* Dallas College published colors. Screen palette, not a CMYK conversion. */
+:root {
+  --dallas-college-red: #E52626;
+  --dallas-college-blue: #003385;
+  --dallas-college-silver: #D6D2C4;
+  --study-heading-font: "Montserrat", sans-serif;
+  --study-body-font: "Montserrat", sans-serif;
+}

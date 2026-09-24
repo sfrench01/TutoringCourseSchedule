@@ -1,0 +1,572 @@
+{
+  "checked": "2026-09-23",
+  "files": [
+    {
+      "path": "00-Reference/Dallas-College-Design-Reference.pdf",
+      "bytes": 80998,
+      "sha256": "fa4b60b2e8c0bb0e3e6157665f36d91a8db99f99e2d0085bdcd343332050a564",
+      "source": "Source links shown in the reference and SOURCES.md",
+      "note": "New personal reference layout; fonts embedded; original official logo previews"
+    },
+    {
+      "path": "00-Reference/Dallas-College-Design-Reference.svg",
+      "bytes": 56858,
+      "sha256": "c09da7b246c5c2ac3e3b73e277986d2d5bed7e5ae7d1d315491d18cf94662816",
+      "source": "Same sources as the PDF reference",
+      "note": "Editable reference text and swatch shapes; logo previews embedded as original PNGs"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/PRINT/DCLOGO_CMYK_D_MARK-K.jpg",
+      "bytes": 589472,
+      "sha256": "02afc1c3637b97da12c6a0c9a0bc2e828b7793995af8b17ff2c8b67a7080f5a8",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/PRINT/DCLOGO_CMYK_D_MARK-KO.jpg",
+      "bytes": 615099,
+      "sha256": "d7010c8d50b129081434b3892e313a392b54a4c01b6402f2ac82323e311b2ab0",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/PRINT/DCLOGO_CMYK_D_MARK.jpg",
+      "bytes": 607026,
+      "sha256": "c48ed6b4a6450f7917d9d76b60d1233a1046a13c25f60c1c91c0d06df7c4e0fd",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK-BLACK.jpg",
+      "bytes": 31708,
+      "sha256": "37c7ef91bc76267f31dfd2dc0b4eae480d86316a553646ef4f37d18d35966e74",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK-BLACK.png",
+      "bytes": 1945,
+      "sha256": "fc8d22ce8837a903813a0e6527730b9ea3cb307d68c297922105afc716adb08e",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK-KO.jpg",
+      "bytes": 39044,
+      "sha256": "20163b6f9d2e1be560603db157737a6435a0fa40ec502a8873dbe62f6be42c61",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK-KO.png",
+      "bytes": 4331,
+      "sha256": "52019b685956d781c0dee20baeffc4f6f46531b0385df9680ba8192fa8ed2119",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK-WHITE.png",
+      "bytes": 2191,
+      "sha256": "2935852cbfc717c855d6d0671267630244917276b163bda7cefaf8db7d618bde",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK.jpg",
+      "bytes": 37690,
+      "sha256": "0daa82b1a330ef5531040fde2aca93ff5a8345b2a05158badb36725b58cdfeea",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/RASTER/WEB/DCLOGO_RGB_D_MARK.png",
+      "bytes": 2247,
+      "sha256": "94c8742b8735b8a837d9b48bac7460636b3eea461a0686f1a4139b057cfd6000",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/CMYK/DCLOGO_CMYK_D_MARK-K.eps",
+      "bytes": 1162610,
+      "sha256": "8446a54b251d9c8e39ef6cadb57681f488a997f89a18d08007edaf1d799eaf5c",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/CMYK/DCLOGO_CMYK_D_MARK-KO.eps",
+      "bytes": 1173002,
+      "sha256": "377c23a65307f124c849849f02caac157d196c40a43f7b74d7669b46674d63ef",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/CMYK/DCLOGO_CMYK_D_MARK-REV.eps",
+      "bytes": 1162626,
+      "sha256": "830749aa20efcf7e6d5623232524d8cac3a55accb5ddb692cb360451bd3f1172",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/CMYK/DCLOGO_CMYK_D_MARK.eps",
+      "bytes": 1162758,
+      "sha256": "3d16fe5d725199a0271351e24a4117184e9d994f7b42526c79ef95e61061854f",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/PMS/DCLOGO_PMS_D_MARK-KO.eps",
+      "bytes": 1170654,
+      "sha256": "36a5512feb2ce02f3f12b1bbcbcab5439bfb31875529b4ee5bc53d682805bf95",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/PMS/DCLOGO_PMS_D_MARK.eps",
+      "bytes": 1167442,
+      "sha256": "48785edfab706d98f7df4ba10d3e892aef774f50cd01a911a2166b18032bef91",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/RGB/DCLOGO_RGB_D_MARK-BLACK.eps",
+      "bytes": 406030,
+      "sha256": "ae50b52f8f3bd9e6fb8e8c699b63d945441fac1a76859ce2d1bc700cbe2f69a5",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/RGB/DCLOGO_RGB_D_MARK-KO.eps",
+      "bytes": 414530,
+      "sha256": "6bad7c1796fe330bc29c62690394396e1de2dde3fc69b309142580c2299693e4",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/RGB/DCLOGO_RGB_D_MARK-WHITE.eps",
+      "bytes": 405958,
+      "sha256": "50b97ffd812ff6a692d3f5f7bff0e6e08968ae294c67f359a3f94e998e59fb8d",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/D Mark/VECTOR/RGB/DCLOGO_RGB_D_MARK.eps",
+      "bytes": 406086,
+      "sha256": "1ce25a3777546b9c8fd7c3a8393e4b626e1080274585946bd719d6633b796589",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/D-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/RASTER/PRINT/DCLOGO_CMYK_MASTER_MARK-H-K.jpg",
+      "bytes": 625879,
+      "sha256": "163439a844fff94d7630c31fe73c4c4e840c8d8fbf96eb6d52f92ce1476fc7cb",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/RASTER/PRINT/DCLOGO_CMYK_MASTER_MARK-H.jpg",
+      "bytes": 697006,
+      "sha256": "10bc1e9adf99a4fa4ec96f222aaac50096225ab47c8844924eed3a19e17c2dca",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-H-BLACK.jpg",
+      "bytes": 47291,
+      "sha256": "fbc9ea56601b8beaa9221e498ecc4ceafe04f68aa89b6abb4fbdc39b599ab611",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-H-BLACK.png",
+      "bytes": 6049,
+      "sha256": "365855508a30f71653d8e2c60be41456944dd2c2f0b665871649adafe62d0e24",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-H.jpg",
+      "bytes": 67644,
+      "sha256": "505fc8975d4a99e7d9f59c70cbe18635aa8ed3f4e191c1ab464ea3c78a9234ce",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-H.png",
+      "bytes": 6871,
+      "sha256": "62b4860380707cc576cdc208d65b1e1ebb9a94618f74cbda86e1d50c84a35737",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-H-K.eps",
+      "bytes": 1210950,
+      "sha256": "118243e412a71e3e54ebf8f03c20ac599e6b7aa68dd324f68026ef69edd5457a",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-H-REV.eps",
+      "bytes": 1210934,
+      "sha256": "4e5ee3fb2bbbed33cc286460a73be4dbd34dc5580df25fe57f33ded08d7bb4bf",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-H.eps",
+      "bytes": 1211054,
+      "sha256": "118c88e52563e4c194a5567d659f615e477162c168cfba1ab8bb27aa37f99af5",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/PMS/DCLOGO_PMS_MASTER_MARK-H.eps",
+      "bytes": 1215810,
+      "sha256": "3429471827c7e86b99ce30714f561e5c289ec3ca60e15bbff3bac7c5b9abd103",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-H-BLACK.eps",
+      "bytes": 453914,
+      "sha256": "55d8625b9b32b6b23451bbe89336aa6fe11b5e5bfd9da501c23bd122006f3cec",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-H-WHITE.eps",
+      "bytes": 453854,
+      "sha256": "ad32b80b0fcecd88a829406176eb37732e4ed109fa9047ca963653d7977cd6dd",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Horizontal Logo/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-H.eps",
+      "bytes": 453954,
+      "sha256": "c6a7252e22dad3b1cf6b2edd2b73d32ed35b06766242a495c59e39cbcca6828e",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Horizontal-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/PRINT/DCLOGO_CMYK_MASTER_MARK-K.jpg",
+      "bytes": 627177,
+      "sha256": "525c5730dd7fca906ec86160ab4713c04e5c757897cff89b067b55f4e381a826",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/PRINT/DCLOGO_CMYK_MASTER_MARK.jpg",
+      "bytes": 705162,
+      "sha256": "c63fe85c338df73a94bff8cf88cd4b80132098965f76df51a482a208954c53cf",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-BLACK.jpg",
+      "bytes": 49101,
+      "sha256": "5232c7a7a5119ea7b258f2bf2543d4334c998127f0db7ef88209beee2968043c",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-BLACK.png",
+      "bytes": 6106,
+      "sha256": "09e95c85cb77be2754edc0fcf65d830a17596d1a447fc8880fb80dc38caeac89",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-WHITE.png",
+      "bytes": 6837,
+      "sha256": "e75b23313e70fa64362e339a142241ef4baab1ea1e6ee51066b8548982b436cb",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/WEB/DCLOGO_RGB_MASTER_MARK.jpg",
+      "bytes": 71816,
+      "sha256": "d3327ffeb7c2e81eadb4484fbe55d574d7e8353c4a386d2442dd2fa9682b4e7e",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/RASTER/WEB/DCLOGO_RGB_MASTER_MARK.png",
+      "bytes": 6965,
+      "sha256": "050c93cf3ec96fe00a2a71f266c32f7a0179c87f511a69fea836ea25a2a351d0",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/CMYK/DCLOGO_CMYK_D_MARK-REV.eps",
+      "bytes": 1162626,
+      "sha256": "830749aa20efcf7e6d5623232524d8cac3a55accb5ddb692cb360451bd3f1172",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-K.eps",
+      "bytes": 1193974,
+      "sha256": "1c9987df61d6134ce3708c15c405187ea27815b51e8dbf6e7b211788cb22226a",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-REV.eps",
+      "bytes": 1193990,
+      "sha256": "c94e218efd495a7498fd35d5c4d5e08aa6a381d938c76fb5ede5695ff098e026",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK.eps",
+      "bytes": 1194058,
+      "sha256": "c61fcae0b3066938223a1b58a55ef43e904f74592394ff16b4ecc0cd051e5bae",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/PMS/DCLOGO_PMS_MASTER_MARK.eps",
+      "bytes": 1198846,
+      "sha256": "c4d35c19db5c7068a3dc04fa73e3de530a7db2e7b0b86a3f8c236956c332bdb0",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-BLACK.eps",
+      "bytes": 436906,
+      "sha256": "c91892445d94424e48f506cd648d05719c3fa7d6850391f310a36ecf4123143d",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-WHITE.eps",
+      "bytes": 436906,
+      "sha256": "e16112fde3e5a3457af7bab698126bd1c6098675dbdffd39a2ec86700252f121",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Master Mark/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK.eps",
+      "bytes": 437014,
+      "sha256": "45b317953a8992759da95b0bf2b8f6004dfaaad8441fda2576774c8b9c29857c",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Master-Mark.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/SVG/dc-logo-master-white.svg",
+      "bytes": 2441,
+      "sha256": "3959ed3c716d2082a08344429dc457fadaff1228e77b9f532f1c15c9d549269e",
+      "source": "https://www.dallascollege.edu/media/dallas-college/site-assets/images/dc-logo-master-white.svg",
+      "note": "Unchanged official website SVG"
+    },
+    {
+      "path": "01-Logos-and-Symbols/SVG/dc-logo-master.svg",
+      "bytes": 2461,
+      "sha256": "ff2e5331cc541cead18075ee0f2f0a806e6f9511366ba93c7dc10ddeecef445a",
+      "source": "https://www.dallascollege.edu/media/dallas-college/site-assets/images/dc-logo-master.svg",
+      "note": "Unchanged official website SVG"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/PRINT/DCLOGO_CMYK_MASTER_MARK-V-K.jpg",
+      "bytes": 614507,
+      "sha256": "65b11117c98ad234a5ad6ee71b128cc568a5882e010f79352c56de7730f92413",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/PRINT/DCLOGO_CMYK_MASTER_MARK-V.jpg",
+      "bytes": 671605,
+      "sha256": "a367ca1bb848deecc0420f665c86399f3f233c47960f393faf8ed31130400f98",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-V-BLACK.jpg",
+      "bytes": 42455,
+      "sha256": "95ed44c3948ce55a29f967750282830071d48cbb6dfb352abab0510a2a528f1e",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-V-BLACK.png",
+      "bytes": 4838,
+      "sha256": "9a75d6b0d2836b1dbc880ff2503e70c265a8729072f49fed41a4890873fbf184",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-V-WHITE.png",
+      "bytes": 5359,
+      "sha256": "2f8c7eeabf5841c66c0f72438150bbaa02bee2981787be94a454220638c94891",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-V.jpg",
+      "bytes": 58297,
+      "sha256": "69270c0503d93171d75a0b036a16247e0e47a521d7bc9d020d6ba5c2b3defeca",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/RASTER/WEB/DCLOGO_RGB_MASTER_MARK-V.png",
+      "bytes": 5564,
+      "sha256": "f0ddfdb5e9e6f5d04c4bcfb2d72a6cbaf3f7ab88b4835e03579470f7485e6be0",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-V-K.eps",
+      "bytes": 1190118,
+      "sha256": "6651ffa6135336655a6cc32d416865497aa7571fc4e545ac14cd8de094746d23",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-V-REV.eps",
+      "bytes": 1190102,
+      "sha256": "0ccfb1a9923d38f4ccad417b2a6a34094f3bd9e90417af071b982dc47281593c",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/CMYK/DCLOGO_CMYK_MASTER_MARK-V.eps",
+      "bytes": 1190250,
+      "sha256": "275ab83701bc48ff309b3b9d9c720169f0d5b4299f6dcda9019efe09b9ebea45",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/PMS/DCLOGO_PMS_MASTER_MARK-V.eps",
+      "bytes": 1195066,
+      "sha256": "be60b732e0d0d27fb7a28ad5d39c72639dd7f56be1aff486235437ee700e0e5d",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-V-BLACK.eps",
+      "bytes": 433062,
+      "sha256": "0ac38d54f64665d41e61a3c75d2c85483d5abc67a7f6c69a4147d412a92592c5",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-V-WHITE.eps",
+      "bytes": 433074,
+      "sha256": "9175d3586052bdfc4b93f4cc2c83f30e77476e5331e06aa9cc736145ac305b33",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "01-Logos-and-Symbols/Vertical Logo/VECTOR/RGB/DCLOGO_RGB_MASTER_MARK-V.eps",
+      "bytes": 433166,
+      "sha256": "974a1792d62196b671d79064210017ca871c2d6f651ecbf526f7c2f8e8268ed8",
+      "source": "https://www.dallascollege.edu/media/dallas-college/content-assets/documents/about-dallas-college/style-guide/Vertical-Logo.zip",
+      "note": "Unchanged official download"
+    },
+    {
+      "path": "02-Colors/Dallas-College-CMYK.ase",
+      "bytes": 254,
+      "sha256": "fbace8b3ced84b2b863bb33219b0ef30cda19feb3579ffae9a5ac86772078e7d",
+      "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "02-Colors/Dallas-College-RGB.ase",
+      "bytes": 260,
+      "sha256": "35b8c2d54c604cb5002104f3db2f73886c512393db61ece49dbc811e973ff681",
+      "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "02-Colors/color-swatches.svg",
+      "bytes": 2013,
+      "sha256": "1eb2b9d9fe79730dd9380f9176b46c43dec826804fade27635fdefdc5937ff08",
+      "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "02-Colors/colors.csv",
+      "bytes": 194,
+      "sha256": "20a9129d8bfb06870d585982b16f39f7a4389725153c1a8499f2eba1a7fe5d7e",
+      "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "02-Colors/colors.json",
+      "bytes": 864,
+      "sha256": "21b2009dd31d1192eea8f4e6728d06836dd6f1dfc52bfaeae0b5b12593b7f5d7",
+      "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "02-Colors/dallas-college.css",
+      "bytes": 288,
+      "sha256": "4319f49d1f3a0957a48e5b6f0547a6ce3e3d5c966296a5ca0d70020ddd0d4c92",
+      "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "03-Fonts/Montserrat-Bold.ttf",
+      "bytes": 454864,
+      "sha256": "bc6e854971cea46b463be6f9eef4d9cd52f51cfc1fc0dd90c9d3e6483dc0ec61",
+      "source": "https://raw.githubusercontent.com/JulietaUla/Montserrat/master/fonts/ttf/Montserrat-Bold.ttf",
+      "note": "Unmodified static font from the font project"
+    },
+    {
+      "path": "03-Fonts/Montserrat-ExtraBold.ttf",
+      "bytes": 455468,
+      "sha256": "d3ac6a843d3ba6d5cafd44cf39e437055c8aed7e261010f595f57d3c7b3e2c1b",
+      "source": "https://raw.githubusercontent.com/JulietaUla/Montserrat/master/fonts/ttf/Montserrat-ExtraBold.ttf",
+      "note": "Unmodified static font from the font project"
+    },
+    {
+      "path": "03-Fonts/Montserrat-Medium.ttf",
+      "bytes": 447320,
+      "sha256": "dae47428bb041f9716604e0e07b5b0c8585b3bdd8183362f75c69fe7bb3cfaf4",
+      "source": "https://raw.githubusercontent.com/JulietaUla/Montserrat/master/fonts/ttf/Montserrat-Medium.ttf",
+      "note": "Unmodified static font from the font project"
+    },
+    {
+      "path": "03-Fonts/Montserrat-Regular.ttf",
+      "bytes": 445928,
+      "sha256": "3e8abe50c44c82e2242e97d1ec8c0d385c4890cdc50447bcdb8605c81a38cfb2",
+      "source": "https://raw.githubusercontent.com/JulietaUla/Montserrat/master/fonts/ttf/Montserrat-Regular.ttf",
+      "note": "Unmodified static font from the font project"
+    },
+    {
+      "path": "03-Fonts/OFL.txt",
+      "bytes": 4400,
+      "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+      "source": "https://raw.githubusercontent.com/JulietaUla/Montserrat/master/OFL.txt",
+      "note": "Full original SIL Open Font License 1.1"
+    },
+    {
+      "path": "04-Presentation-Assets/red-pattern-from-your-deck.png",
+      "bytes": 251981,
+      "sha256": "ea852643c4b810e5a369e6dd698df139db81ae3a218fb95a08c1d2ac73cb5808",
+      "source": "User supplied: Study Tips Panel.pptx, ppt/media/image1.png",
+      "note": "Original raster artwork extracted from the supplied deck; not redrawn or recolored"
+    },
+    {
+      "path": "05-Sources/SOURCES.md",
+      "bytes": 3589,
+      "sha256": "5e1dce2d6bb30c57cab59b5cae441c5d9e7ec409d1352bfc5268483ad48de14f",
+      "source": "Official sources linked in this document",
+      "note": "Created for this personal reference kit"
+    },
+    {
+      "path": "05-Sources/font-inspection.json",
+      "bytes": 271,
+      "sha256": "96750574c8d3dc6e21b8280d7e7679ed70124126a689d41e2b575dfbde65653f",
+      "source": "User supplied deck and completed Study Tips deck",
+      "note": "Read-only inspection of explicit Latin font names on slides"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6695,
+      "sha256": "19c95503e0cccc218c218b82c0ebdfd2fe53631cd6ef3ce810f9ba40dad9deef",
+      "source": "Compiled for this user from the source list",
+      "note": "Created for this personal reference kit"
+    }
+  ]
+}

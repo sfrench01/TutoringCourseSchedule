@@ -1,0 +1,57 @@
+{
+  "source": "https://www.dallascollege.edu/about/style/collegecolors/",
+  "checked": "2026-09-23",
+  "colors": [
+    {
+      "name": "Dallas College Red",
+      "key": "red",
+      "hex": "#E52626",
+      "rgb": [
+        229,
+        38,
+        38
+      ],
+      "cmyk": [
+        0,
+        95,
+        100,
+        0
+      ],
+      "pms": "485 C"
+    },
+    {
+      "name": "Dallas College Blue",
+      "key": "blue",
+      "hex": "#003385",
+      "rgb": [
+        0,
+        51,
+        133
+      ],
+      "cmyk": [
+        100,
+        53,
+        2,
+        16
+      ],
+      "pms": "287 C"
+    },
+    {
+      "name": "Dallas College Silver",
+      "key": "silver",
+      "hex": "#D6D2C4",
+      "rgb": [
+        214,
+        210,
+        196
+      ],
+      "cmyk": [
+        3,
+        4,
+        14,
+        8
+      ],
+      "pms": "7527 C"
+    }
+  ]
+}

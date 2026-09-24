@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<rect width="1200" height="430" fill="white"/>
+<text x="30" y="43" font-family="Montserrat,Arial,sans-serif" font-size="25" font-weight="800" fill="#003385">Dallas College color swatches</text>
+<g id="Dallas-College-Red"><rect x="30" y="72" width="360" height="178" fill="#E52626"/>
+<text x="30" y="284" font-family="Montserrat,Arial,sans-serif" font-size="21" fill="#003385">Dallas College Red</text>
+<text x="30" y="313" font-family="Montserrat,Arial,sans-serif" font-size="21" fill="#003385">#E52626</text>
+<text x="30" y="342" font-family="Montserrat,Arial,sans-serif" font-size="17" fill="#003385">RGB 229, 38, 38</text>
+<text x="30" y="371" font-family="Montserrat,Arial,sans-serif" font-size="17" fill="#003385">CMYK 0, 95, 100, 0   PMS 485 C</text>
+</g>
+<g id="Dallas-College-Blue"><rect x="420" y="72" width="360" height="178" fill="#003385"/>
+<text x="420" y="284" font-family="Montserrat,Arial,sans-serif" font-size="21" fill="#003385">Dallas College Blue</text>
+<text x="420" y="313" font-family="Montserrat,Arial,sans-serif" font-size="21" fill="#003385">#003385</text>
+<text x="420" y="342" font-family="Montserrat,Arial,sans-serif" font-size="17" fill="#003385">RGB 0, 51, 133</text>
+<text x="420" y="371" font-family="Montserrat,Arial,sans-serif" font-size="17" fill="#003385">CMYK 100, 53, 2, 16   PMS 287 C</text>
+</g>
+<g id="Dallas-College-Silver"><rect x="810" y="72" width="360" height="178" fill="#D6D2C4"/>
+<text x="810" y="284" font-family="Montserrat,Arial,sans-serif" font-size="21" fill="#003385">Dallas College Silver</text>
+<text x="810" y="313" font-family="Montserrat,Arial,sans-serif" font-size="21" fill="#003385">#D6D2C4</text>
+<text x="810" y="342" font-family="Montserrat,Arial,sans-serif" font-size="17" fill="#003385">RGB 214, 210, 196</text>
+<text x="810" y="371" font-family="Montserrat,Arial,sans-serif" font-size="17" fill="#003385">CMYK 3, 4, 14, 8   PMS 7527 C</text>
+</g>
+</svg>
