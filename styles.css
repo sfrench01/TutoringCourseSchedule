@@ -22,3 +22,15 @@
 body {
     background-color:lightblue;
 }
+body input[type="text"] {
+    float: center;
+    padding: 6px;
+    margin-top: 10px;
+    margin-left: 50%;
+    font-size: 25px;
+}
+footer {
+    display: block;
+    color:#f2f2f2;
+    background-color: #003385;
+}
